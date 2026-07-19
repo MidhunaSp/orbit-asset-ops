@@ -2,7 +2,7 @@
 
 A real, working full-stack asset/inventory intelligence app: role-based
 dashboard, maker-checker approvals, anomaly tracking, and an AI insights
-endpoint with graceful degradation. Matches the reference the dashboard design
+endpoint with graceful degradation. Matches the reference dashboard design
 (sidebar nav, live stats, distribution/top-items charts).
 
 **Stack:** React 19 + TypeScript + Tailwind (frontend) · Express 5 + TypeScript
