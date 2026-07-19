@@ -1,4 +1,4 @@
-# Hexaware Asset Intelligence — starter build
+# Orbit Asset Intelligence — starter build
 
 A real, working full-stack asset/inventory intelligence app: role-based
 dashboard, maker-checker approvals, anomaly tracking, and an AI insights
